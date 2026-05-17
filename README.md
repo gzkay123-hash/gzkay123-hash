@@ -1,18 +1,32 @@
-# Download App Guide
+# Curated Web Resources by Kay
 
-I maintain **Download App Guide**, a safety-first app download resource focused on official store links, Android/iOS permission checks, regional availability, update records, and avoiding cracked or modified APKs.
+This profile collects practical, safety-first resources for app discovery, official download checks, and communication/network troubleshooting.
 
-Website: https://downloadappguide.com
+## DownloadAppGuide
 
-## Useful app safety guides
+DownloadAppGuide helps users verify official app and game download sources, understand app availability, and avoid unsafe APK or unofficial mirror risks.
 
-- [How to check whether an APK is from an official source](https://downloadappguide.com/news/how-to-check-apk-official-source-before-install)
-- [Google Play app not available in your region: what to check](https://downloadappguide.com/news/google-play-app-not-available-region-fix)
-- [App Store cannot find an app: common reasons](https://downloadappguide.com/news/app-store-cannot-find-app-reasons)
-- [Android app permission risk level guide](https://downloadappguide.com/news/android-app-permission-risk-level-guide)
-- [Why avoid cracked, modded, or unlocked apps](https://downloadappguide.com/news/why-avoid-cracked-modded-apps)
-- [Finance wallet app download safety checklist](https://downloadappguide.com/news/finance-wallet-app-download-safety-checklist)
+- Website: https://downloadappguide.com
+- Download safety guide: https://downloadappguide.com/download-safety
+- Editorial policy: https://downloadappguide.com/editorial-policy
+- GitHub resource repo: https://github.com/gzkay123-hash/download-app-safety-checklist
+- Public checklist gist: https://gist.github.com/gzkay123-hash/de2a5b5763f7f0045c66ffde83e11362
 
-## Notes
+## zuowangdao 通信技术实战指南
 
-Download App Guide is not an APK mirror and does not host cracked or modified app packages. The goal is to help users verify official app sources before installing.
+zuowangdao organizes practical guides for mobile networks, eSIM, 5G, APN, dual-SIM, roaming, hotspot sharing, WiFi, broadband, and everyday troubleshooting.
+
+- Website: https://zuowangdao.com/
+- Mobile network category: https://zuowangdao.com/category/mobile-network/
+- Communication basics category: https://zuowangdao.com/category/tx-jichu/
+- GitHub resource repo: https://github.com/gzkay123-hash/mobile-network-troubleshooting-guides
+- Public troubleshooting gist: https://gist.github.com/gzkay123-hash/df59514b0062dcfcaa7070626c5de6ad
+
+## Principles
+
+- Prefer official sources and transparent safety checks.
+- Avoid cracked, modified, or repackaged app files for sensitive accounts.
+- Treat network troubleshooting as a step-by-step process: account status, device settings, coverage, and carrier-side rules.
+- Use natural resource citations instead of spam links or repeated exact-match anchors.
+
+Disclosure: these resources are maintained for educational and documentation purposes.
